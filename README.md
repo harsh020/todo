@@ -1,11 +1,10 @@
 ## Todo App Backend
---------------------
 
 This is a simple Todo application backend with CRUD operations on Tasks.
 
+</br>
 
 ## API Endpoints
------------------
 
 - create task - `/task/`
 - get task - `/task/{id}`
@@ -13,9 +12,9 @@ This is a simple Todo application backend with CRUD operations on Tasks.
 - update task to done - `/task/{id}/done`
 - delete task - `/task/{id}`
 
+</br>
 
 ## Steps to use
-----------------
 
 - Clone the project
 - Set up db. 
