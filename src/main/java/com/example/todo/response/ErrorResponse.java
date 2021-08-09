@@ -1,4 +1,4 @@
-package com.example.todo.core;
+package com.example.todo.response;
 
 import lombok.Getter;
 

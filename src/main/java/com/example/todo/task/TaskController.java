@@ -1,6 +1,6 @@
 package com.example.todo.task;
 
-import com.example.todo.core.ErrorResponse;
+import com.example.todo.response.ErrorResponse;
 import com.example.todo.task.exceptions.TaskNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
